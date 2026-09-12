@@ -1,0 +1,22 @@
+ -Animal Company Modding DCM apk method-
+ hello, this was made by RigbyDCM. We were the first ones to find out of this method not Xera Company, they are too ass.
+
+ Alright so u need a pc why? because its better and faster! 
+
+```
+-Download list-
+1. NotePad++ https://notepad-plus-plus.org/downloads/ Ur going to need this since it doesnt change the file size. Without it the whole file gets corrupt.
+2. A pythonanywhere account. Must be exactly this long https://q7m2x9kpl4v8zzz123.pythonanywhere.com over 18 letters in ur user name must be EXACTLY THAT. Or it crashes.
+3. DownQ for the latest apk https://chromewebstore.google.com/detail/downq/clocmpojdjmikkaepgkmplgooejmnchb?pli=1 You need this to download version of the game make sure u press the apk u want and there will be a warning. Press the link so ur OCA token logs and then you can download the apk.
+4. Apk easy tool https://github.com/mkcs121/APK-Easy-Tool/releases you need this to decompile and recompile and sign the apk. install java and  python after. Might be needed.
+```
+
+-What to look for-
+1. first you will have to delete the checker. First decompile the apk using Apk easy tool. Then press decompiled apk directory. And go inside the AC apk follow the path C:\Users\DCM_IS_BETTER\Downloads\APK.Easy.Tool.v1.60.Portable\1-Decompiled APKs\AnimalCompany_MetaQuest_1.89.2.3462_fb3fc3f5_store (1)\assets for better understanding just go to assets Delete "resource_patch_v3a7kf.dat" Or IT WONT WORK!!
+
+2. After head to bin --> data after that press ctrl + f and search "84ed4c5cf729c4b48880f9fdc0cbd072" open with notepad ++ or it wont work!
+
+3. it will look this. https://animalcompany.us-east1.nakamacloud.io:443 remove that and replace it with ur Backend aka pythonanywhere url. keep the ":" and "433"
+should look like this https://q7m2x9kpl4v8zzz123.pythonanywhere.com:443 like this exactly or it will just show black. keep the ":" and "433"
+
+4. after you save it by pressing x and save. You are done.
